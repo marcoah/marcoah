@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**marcoah/marcoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" width="40%" src="https://geologiaymapas.com/wp-content/uploads/2020/08/logogeoymaps-150x150-1.png">](https://geologiaymapas.com) 
 
-Here are some ideas to get you started:
+I'm marco Hernandez, an geologist engineer working in Geotechnics and Data Science, I'm from Venezuela.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
