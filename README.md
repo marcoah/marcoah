@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img align="left" width="40%" src="https://geologiaymapas.com/wp-content/uploads/2020/08/logogeoymaps-150x150-1.png">](https://geologiaymapas.com) 
+[<img align="left" width="40%" src="https://geologiaymapas.com/wp-content/uploads/2021/10/logo_cuadrado480x480.jpg">](https://geologiaymapas.com) 
 
 I'm marco Hernandez, an geologist engineer working in Geotechnics and Data Science, I'm from Venezuela.
 
