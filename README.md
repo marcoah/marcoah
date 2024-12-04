@@ -13,6 +13,6 @@ Soy un ingeniero y desarrollador con experiencia en geología, análisis de dato
 - **Visualización de datos:** Power BI , Tableau
 
 ## 📫 **Contacto**  
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/marcoah17)  
-- GitHub: [@tu-usuario](https://github.com/marcoah)  
+- LinkedIn: [Mi Perfil](https://linkedin.com/in/marcoah17)  
+- GitHub: [@marcoah](https://github.com/marcoah)  
 - Correo: marco.hernandez@mhconsultoresca.com  
