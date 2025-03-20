@@ -7,12 +7,12 @@
 Soy un ingeniero y desarrollador con experiencia en geología, análisis de datos, desarrollo de software y Sistemas de Información Geográfica (SIG). Combino habilidades técnicas y analíticas para crear soluciones que generan impacto en las organizaciones.  
 
 🔧 Mis herramientas favoritas incluyen:  
-- **Lenguajes:** Python, JavaScript, PHP  
-- **Bases de datos:** SQL, Postgres, MySQL , MS SQL Server
-- **GIS:** ArcGIS, QGIS, Google Earth Engine  
-- **Visualización de datos:** Power BI , Tableau
+- **Lenguajes:** PHP, Javasript y Python.
+- **Frameworks:** Laravel, Vue.js, Django
+- **Bases de datos SQL:** Postgres, MySQL, MS SQL Server
+- **GIS:** ArcGIS, QGIS, Google Earth Engine, PostGIS
+- **Visualización de datos:** Power BI , Tableau, Locker
 
 ## 📫 **Contacto**  
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/marcoah17)  
-- GitHub: [@marcoah](https://github.com/marcoah)  
-- Correo: marco.hernandez@mhconsultoresca.com  
+- GitHub: [@marcoah](https://github.com/marcoah)
