@@ -14,5 +14,4 @@ Soy un ingeniero y desarrollador con experiencia en geología, análisis de dato
 - **Visualización de datos:** Power BI , Tableau, Locker
 
 ## 📫 **Contacto**  
-- LinkedIn: [Mi Perfil](https://linkedin.com/in/marcoah17)  
-- GitHub: [@marcoah](https://github.com/marcoah)
+- LinkedIn: [Mi Perfil](https://linkedin.com/in/marcoah17)
