@@ -1,17 +1,108 @@
-### Hi there 👋
+Aquí tienes una versión optimizada, más sólida y alineada con tu perfil real (data + cloud + arquitectura). Mantiene profesionalismo, pero con un toque moderno y claro:
 
-# 👨‍💻 **[Marco Hernandez] - Ingeniero y Desarrollador de Software**  
-🚀 Innovador en tecnología, datos y GIS
+---
 
-## 🌟 **Sobre mí**  
-Soy un ingeniero y desarrollador con experiencia en geología, análisis de datos, desarrollo de software y Sistemas de Información Geográfica (SIG). Combino habilidades técnicas y analíticas para crear soluciones que generan impacto en las organizaciones.  
+## Hi there 👋
 
-🔧 Mis herramientas favoritas incluyen:  
-- **Lenguajes:** PHP, Javasript y Python.
-- **Frameworks:** Laravel, Vue.js, Django
-- **Bases de datos SQL:** Postgres, MySQL, MS SQL Server
-- **GIS:** ArcGIS, QGIS, Google Earth Engine, PostGIS
-- **Visualización de datos:** Power BI , Tableau, Locker
+### 👨‍💻 Marco Hernández
+
+**Data & Cloud Engineer | Arquitectura de Datos | GIS & Analytics**
+
+🚀 Construyendo soluciones donde los datos, el negocio y la tecnología realmente conversan.
+
+---
+
+## 🌟 Sobre mí
+
+Soy ingeniero y desarrollador con experiencia en **análisis de datos, arquitecturas de datos y sistemas geoespaciales (GIS)**.
+
+Me especializo en diseñar soluciones que van más allá del código: desde pipelines de datos y modelos analíticos, hasta plataformas completas orientadas a negocio.
+
+He trabajado integrando datos complejos (incluyendo geoespaciales) para transformarlos en información útil para la toma de decisiones.
+
+Actualmente enfocado en:
+
+* Arquitectura de plataformas de datos (Data Lake / Warehouse)
+* Soluciones en la nube (AWS, Azure, GCP)
+* Analítica avanzada y BI
+* Desarrollo de productos SaaS data-driven
+
+---
+
+## 🧠 En qué soy fuerte
+
+* Diseño de **pipelines ETL con Python**
+* Modelado de datos relacional y analítico
+* Integración y migración de datos
+* Análisis geoespacial aplicado a negocio
+* Construcción de soluciones BI y Analytics
+* Enfoque en **escalabilidad, performance y arquitectura**
+
+---
+
+## 🔧 Tech Stack
+
+**Lenguajes**
+
+* Python
+* PHP
+* JavaScript
+
+**Frameworks & Tools**
+
+* Laravel
+* Vue.js
+* Django
+
+**Data & Bases de Datos**
+
+* PostgreSQL / PostGIS
+* SQL Server
+* MySQL
+
+**Cloud & Data Platforms**
+
+* AWS
+* Azure
+* GCP
+
+**GIS**
+
+* ArcGIS
+* QGIS
+* Google Earth Engine
+
+**BI & Visualización**
+
+* Power BI
+* Tableau
+
+---
+
+## 🚀 Intereses actuales
+
+* Data Engineering & Data Platforms
+* Arquitectura Cloud
+* Sistemas distribuidos
+* Aplicaciones data-driven
+* Geospatial Intelligence
+
+---
+
+## 📌 Algo más sobre mí
+
+Me gusta trabajar en la intersección entre **datos, software y negocio**.
+Siempre estoy construyendo, aprendiendo o mejorando algo… normalmente todo al mismo tiempo.
+
+---
+
+Si quieres, siguiente nivel:
+
+* Te armo una versión con **repos destacados tipo storytelling (para reclutadores)**
+* O incluso un **README con arquitectura visual (diagramas tipo Data Pipeline / Cloud)**
+
+Eso ya te pone por encima del 90% de perfiles en GitHub.
+
 
 ## 📫 **Contacto**  
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/marcoah17)
