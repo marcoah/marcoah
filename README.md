@@ -1,7 +1,3 @@
-Aquí tienes una versión optimizada, más sólida y alineada con tu perfil real (data + cloud + arquitectura). Mantiene profesionalismo, pero con un toque moderno y claro:
-
----
-
 ## Hi there 👋
 
 ### 👨‍💻 Marco Hernández
@@ -93,16 +89,6 @@ Actualmente enfocado en:
 
 Me gusta trabajar en la intersección entre **datos, software y negocio**.
 Siempre estoy construyendo, aprendiendo o mejorando algo… normalmente todo al mismo tiempo.
-
----
-
-Si quieres, siguiente nivel:
-
-* Te armo una versión con **repos destacados tipo storytelling (para reclutadores)**
-* O incluso un **README con arquitectura visual (diagramas tipo Data Pipeline / Cloud)**
-
-Eso ya te pone por encima del 90% de perfiles en GitHub.
-
 
 ## 📫 **Contacto**  
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/marcoah17)
